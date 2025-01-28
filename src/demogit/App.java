@@ -5,6 +5,9 @@ public class App {
 	{
 		System.out.println("Dummy class");
 		System.out.println("Hello World");
-System.out.println("Hi");
+	 
+   int a=9;
+   System.out.println(a);
+
 }
 }
