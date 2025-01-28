@@ -8,6 +8,9 @@ public class App {
 	 
    int a=9;
    System.out.println(a);
+   
+   int b=8;
+   System.out.println(a+b);
 
 }
 }
